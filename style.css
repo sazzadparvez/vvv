@@ -1,0 +1,181 @@
+*{margin:0;padding:0}
+body{font-family:arial;font-size:14px;color:#000;line-height:20px}
+.main{width:1200px;margin:0 auto}
+.sazzad1{background-color:#3A5795}
+.sazzadp1{position: relative;
+top: 15px;
+left: 100px;}
+.sazzad2{}
+.sazzad3{margin-left: 620px;
+margin-top: -31px;
+font-size: 12px;color: white;opacity: 0.5;}
+.sazzad4{margin-left: 790px;
+font-size:12px;
+margin-top:-19px;color:white;opacity:0.5;}
+.sazzad5{margin-left: 950px;
+border: 1px solid:#FCFDFE;
+width: 50px;
+padding: 1px 11px;
+height: 18px;color: white;opacity: 0.5;}
+.sazzad6{margin-left: 620px;
+margin-top: -22px;}
+.sazzad7{margin-left: 789px;
+margin-top: -20px;}
+.sazzad8{}
+.sazzad9{}
+.sazzad10{margin-left: 625px;
+font-size: 15px;color: white;opacity: 0.5;}
+.sazzad11{margin-left: 790px;
+margin-top: -17px;
+font-size: 12px;color:#FFFFFF;opacity: 0.5;}
+.parvez1{background-color:#F3F5F9}
+.parvez2{position: relative;
+left: 230px;
+top: 54px;}
+.parvez3{font-size: 16px;
+color:#46587A;}
+.parvez4{font-size: 17px;color:#46587A}
+.parvez5{}
+.parvez6{margin-left: 640px;
+margin-top: -10px;}
+.parvez7{left: 637px;
+font-size: 16px;
+position: relative;
+top: 10px}
+.parvez8{height: 255px;
+width: 161px;
+margin-left: 60px;
+margin-top: -21px;}
+.parvez9{width: 381px;
+position: relative;
+top: -63px;
+left: -9px;}
+.ss{width: 115px;
+height: 30px;
+margin-left: 700px;}
+.parvez10{margin-top: -220px;
+margin-left: -63px;}
+.sss{width: 115px;
+height: 30px;
+margin-left: 750px;}
+.parvez11{}
+.parvez12{margin-top: -32px;
+margin-left: 40px;}
+.ssss{width: 270px;;
+height: 30px;
+margin-left: 750px}
+.parvez13{}
+.sssss{width: 270px;;
+height: 30px;
+margin-left: 750px}
+.parvez14{margin-top: 21px;
+margin-left: -113px;}
+.parvez15{}
+.parvez16{margin-top: 18px;
+margin-left: -113px;}
+.parvez17{margin-left: -111px;
+margin-top: 20px;}
+.parvez18{}
+.sp1{background-color:#E2E5F0 }
+.sp2{margin-left: 640px;}
+.md1{width: 270px;
+height: 35px;
+margin-top: 11px;}
+.sp3{margin-top: 15px;
+font-size: 22px;color:#914326;}
+.sp4{margin-left: 640px;
+margin-top: 13px;}
+.md2{width: 80px;
+height: 30px;}
+.sp5{margin-left: -22px;
+opacity: 0.7;}
+.sp6{margin-left: 722px;
+margin-top: -44px;}
+.md3{width: 55px;
+height: 29px;
+margin-top: 12px;}
+.sp7{margin-left: -22px;
+opacity: 0.6;}
+.sp8{margin-left: 780px;
+margin-top: -41px;}
+.md4{width: 80px;
+height:27px;
+margin-top: 11px;}
+.sp9{margin-left: -22px;
+opacity: 0.6}
+.sp10{margin-left: 92px;
+margin-top: -32px;
+font-size: 13px;
+line-height: 16px;
+font-family: arial;
+color:#5681C9}
+.sp11{border: 1px solid;
+height: 10px;
+width: 10px;
+border-radius: 50%;
+background-color:#DEDEDE;
+margin-left: 640px;margin-top: 16px}
+.sp12{margin-left: 665px;
+margin-top: -15px;
+font-size: 15px;}
+.sp13{border: 1px solid;
+height: 10px;
+width: 10px;
+border-radius: 50%;
+background-color:#DEDEDE;
+margin-left: 740px;
+margin-top: -14px;}
+.sp14{margin-left: 765px;
+margin-top: -16px;
+font-size: 15px;}
+.sp15{margin-left: 637px;
+font-size: 14px;
+line-height: 20px;
+margin-top: 8px;}
+.sp16{border: 1px solid 64A651;
+width: 113px;
+height: 15px;
+padding: 9px;
+margin-left: 630px;
+border-radius: 5%;
+font-size: 20px;
+margin-top: 8px;
+background-color:#5F9B4C}
+.sp17{margin-top: -4px;
+color:#FAF9F0;}
+.sp18{border: 1px solid;
+width: 320px;
+margin-left: 630px;
+margin-top: 18px;
+color:#A5AEC4;}
+.sp19{margin-left: 633px;
+margin-top: 10px;
+color:#3A5795;}
+.sp20{margin-left: 736px;
+margin-top: -19px;
+color:#988770;}
+.rest{background-color:#FFFFFF }
+.rest1{margin-left: 155px;
+margin-top: 15px;
+font-size: 13px;
+color:#3A5795;}
+.rest2{border: 1px solid;
+width: 800px;
+margin-left: 150px;
+color:#D5D5D5;}
+.rest3{margin-left:150px;
+margin-top:5px;
+font-size:13px;color:#3A5795;}
+.rest4{margin-left: 150px;
+margin-top: 5px;}
+.rest5{font-size: 10px;color:#A8ACB5;}
+.rest6{font-size: 11px;
+margin-top: -4px;
+color:#A3E5FF;}
+.sl1{height: 30px;}
+.sl2{margin-top: 13px;
+height: 30px;
+margin-left: -10px;width: 71px;}
+.sl3{margin-top: 11px;
+height: 30px;
+margin-left: 3px;}
